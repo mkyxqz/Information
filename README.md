@@ -2,7 +2,7 @@ im tired
 <!---
 
 --->
-https://discord.gg/hood
+
 
 https://www.twitch.tv/wizzedson
 
