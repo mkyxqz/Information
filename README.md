@@ -7,4 +7,4 @@
 <p align="left">
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iownrachel&show_icons=true&locale=en" alt="iownrachel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iownrachel&show_icons=true&theme=dracula&title_color=ff0000&text_color=c5bfbf&hide_border=true&locale=en" alt="iownrachel" /></p>
