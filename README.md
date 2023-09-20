@@ -1,5 +1,5 @@
 <h1 align="center">2 stack dev</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iownrachel&label=Profile%20views&color=00ffcc&style=plastic" alt="mkyxqz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkyxqz&label=Profile%20views&color=00ffcc&style=plastic" alt="mkyxqz" /> </p>
 
 
 
